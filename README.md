@@ -2,9 +2,14 @@
 # MR.X
 # Bangladesh Syber Pro
 #YouTube:https://www.youtube.com/channel/UC_u7Ac5b-duM7dXEdJYAprQ
+
+
 #Facebook:@Hackeritzonebangladeshsyberpro
+
+
 #Donate
 #for makeing tools and content creator
+
 #Bitcoin Address : 3CSkH8u1PtWzzUY8v5KoHwqo3Txz49b7su
 
 DHOOM is a python tool designed to enumerate subdomains of websites using OSINT. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting. DHOOM enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. DHOOM also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster and ReverseDNS.
